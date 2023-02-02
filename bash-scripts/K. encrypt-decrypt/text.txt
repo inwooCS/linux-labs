@@ -1,0 +1,5 @@
+-----------------------------------------------------------------
+Test file
+The contents of this file will be printed once it is decrypted. 
+Encryption uses AES256 with passphrase.
+-----------------------------------------------------------------
